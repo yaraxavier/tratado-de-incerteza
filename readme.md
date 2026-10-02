@@ -9,7 +9,6 @@ O trabalho foca na **implementação manual dos algoritmos**, priorizando o ente
 ## 👩‍🎓 Informações Acadêmicas
 
 * **Aluno(a):** Yara Xavier de Sousa
-* **Matrícula:** 211015473
 * **Disciplina:** FGA0221 – Inteligência Artificial
 * **Tema:** Tratamento de Incerteza
 * **Professor:** Fabiano Araujo Soares
